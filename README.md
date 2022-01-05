@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yeony54
-- 👀 I’m interested in BigData, Machine Learning, Data Engineer
+- 👀 I’m interested in BigData, Machine Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
